@@ -114,7 +114,7 @@ let resumeButton = document.getElementById('resume-button')
 //HTML2PDF OPTIONS
 let opt = {
     margin: 0,
-    filename: 'LeQuangMinh-CV.pdf',
+    filename: 'LeKimHoang-resume-EN.pdf',
     image: { type: 'jpeg', quality: 1 },
     html2canvas: {
         dpi: 192,
